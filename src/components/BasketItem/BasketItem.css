@@ -1,0 +1,31 @@
+.delete-item {
+  color: #000;
+}
+
+.wrap-li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrap-li,
+li {
+  margin: 0px 20px;
+}
+
+.counter {
+  border: 1px solid gray;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.s1 {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  width: 300px;
+  margin-left: 0;
+  font-size: 1.2rem;
+  color: blue;
+}

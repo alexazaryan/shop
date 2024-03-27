@@ -1,0 +1,11 @@
+.card-position {
+  position: fixed;
+  right: 450px;
+  z-index: 3;
+  top: 0;
+  cursor: pointer;
+}
+
+.res {
+  color: white;
+}

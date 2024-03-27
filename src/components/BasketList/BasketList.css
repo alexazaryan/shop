@@ -1,0 +1,12 @@
+.collection-style {
+  color: red;
+}
+
+.wrap {
+  display: flex;
+  justify-content: space-between;
+}
+
+.material-icons {
+  cursor: pointer;
+}
