@@ -1,6 +1,6 @@
 .card-position {
   position: fixed;
-  right: 450px;
+  margin-left: 1050px;
   z-index: 3;
   top: 0;
   cursor: pointer;
